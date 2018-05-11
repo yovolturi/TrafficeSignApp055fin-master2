@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">9 วัด</string>
+    <string name="my_name">นายจตุพร อินทร์สกุล 065</string>
+    <string name="my_name2">นายจิรวัฒน์ เหรียญทองชัย 063</string>
+    <string name="my_name3">นายปิยบุตร รักใคร่ 015</string>
+    <string name="my_name4">นายวทัญญู อ่วมเมี่ยง</string>
+    <string name="app_major">หลักสูตรวิทยาการคอมพิวเตอร์</string>
+    <string name="app_university">มหาวิทยาลัยสวนดุสิต</string>
+    <string name="app_mobile">Mobile no.:0991201075</string>
+    <string name="app_facebook">facebook:https://www.facebook.com/yo.ouammiang</string>
+</resources>
